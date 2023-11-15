@@ -24,7 +24,7 @@ Git and GitHub are powerful tools for version control and collaborative software
 Use the following command to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/ahzem/git&github.git
+git clone https://github.com/ahzem/git-github.git
 ```
 
 ### Explore the Exercises
@@ -45,7 +45,7 @@ We welcome contributions! If you'd like to contribute to this repository, follow
 
 ### Good First Issues
 
-Check the [Good First Issues](https://github.com/ahzem/git&github/labels/good%20first%20issue) label for tasks that are beginner-friendly.
+Check the [Good First Issues](https://github.com/ahzem/git-github/labels/good%20first%20issue) label for tasks that are beginner-friendly.
 
 ## License
 
