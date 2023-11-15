@@ -29,19 +29,11 @@ git clone https://github.com/ahzem/git-github.git
 
 ### Explore the Exercises
 
-Navigate to the repository directory and explore the exercises provided. Each exercise is designed to help you practice different Git and GitHub concepts.
+Navigate to the repository directory and explore the exercises provided as an Issue. Each exercise is designed to help you practice different Git and GitHub concepts.
 
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to this repository, follow the [contribution guidelines](CONTRIBUTING.md).
-
-### How to Contribute
-
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Make your changes and commit them.
-4. Push your changes to your fork.
-5. Submit a pull request.
 
 ### Good First Issues
 
